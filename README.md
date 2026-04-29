@@ -19,7 +19,7 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [IMDB Dataset Review](https://github.com/KundanPw/SalesDashboard) | currently working | Numpy, Pandas, Matplotlib |
-| [Sales Dashboard](https://github.com/KundanPw/SalesDashboard) | Power BI dashboard analyzing 10K+ sales records | Power BI, SQL, Excel |
+| [Sales Dashboard](https://github.com/KundanPw/SalesDashboard) | Power BI dashboard analyzing 10K+ sales records | Power BI|
 | [Customer Analysis](https://github.com/KundanPw/Amazon-product-review-analysis) | Python analysis of customer behavior patterns | Python, Pandas, Matplotlib |
 | [Database Queries](https://github.com/KundanPw/CricketScoreManagement-Excel-) | Optimized SQL queries for reporting | MySQL, SQL |
 
