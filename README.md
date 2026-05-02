@@ -21,7 +21,7 @@
 | [IMDB Dataset Review](https://github.com/KundanPw/SalesDashboard) | currently working | Numpy, Pandas, Matplotlib |
 | [Analysis of Book Sales](https://github.com/KundanPw/Analysis-of-Sale-Books.git) | Power BI dashboard analyzing book sales records | Power BI|
 | [Customer Analysis](https://github.com/KundanPw/Amazon-product-review-analysis) | Python analysis of customer behavior patterns | Python, Pandas, Matplotlib |
-| [Cricket Score Management](https://github.com/KundanPw/CricketScoreManagement-Excel-) |Excel |
+| [Cricket Score Management](https://github.com/KundanPw/CricketScoreManagement-Excel-) |Manage ckricket score using advance excel |Excel|
 
 ## 🎯 **Currently Learning**
 - Advanced SQL & Data Warehousing
