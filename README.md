@@ -18,9 +18,8 @@
 ## 📈 **Recent Projects**
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [IMDB Dataset Review](https://github.com/KundanPw/SalesDashboard) | currently working | Numpy, Pandas, Matplotlib |
+| [Black Friday Sales Analysis](https://github.com/KundanPw/BlackFridayAnalysis.git) |Analysis of Black Friday Sales | Numpy, Pandas, Matplotlib, Seaborn |
 | [Analysis of Book Sales](https://github.com/KundanPw/Analysis-of-Sale-Books.git) | Power BI dashboard analyzing book sales records | Power BI|
-| [Customer Analysis](https://github.com/KundanPw/Amazon-product-review-analysis) | Python analysis of customer behavior patterns | Python, Pandas, Matplotlib |
 | [Cricket Score Management](https://github.com/KundanPw/CricketScoreManagement-Excel-) |Manage ckricket score using advance excel |Excel|
 
 ## 🎯 **Currently Learning**
