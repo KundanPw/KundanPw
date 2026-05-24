@@ -15,16 +15,21 @@
 
 **Languages & Tools:** Python, SQL, Pandas, Power BI, Excel, MySQL, Git
 
+## 🧩 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kundan_Kumar_2003?theme=dark&font=baloo&ext=activity)
+
 ## 📈 **Recent Projects**
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Black Friday Sales Analysis](https://github.com/KundanPw/BlackFridayAnalysis.git) |Analysis of Black Friday Sales | Numpy, Pandas, Matplotlib, Seaborn |
 | [Analysis of Book Sales](https://github.com/KundanPw/Analysis-of-Sale-Books.git) | Power BI dashboard analyzing book sales records | Power BI|
-| [Cricket Score Management](https://github.com/KundanPw/CricketScoreManagement-Excel-) |Manage ckricket score using advance excel |Excel|
+| [Cricket Score Management](https://github.com/KundanPw/CricketScoreManagement-Excel-) |Manage cricket score using advance excel |Excel|
 
-## 🎯 **Currently Learning**
-- Advanced SQL & Data Warehousing
-- Pandas
+## 🎯 Currently Learning
+- Advanced SQL & Window Functions
+- DAX for Power BI
+- Statistics for Data Analysis
 
 📧 **Open to Data Analyst roles** |
 ✉️ **Connect: kk9797307@gmail.com**
