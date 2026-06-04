@@ -24,7 +24,7 @@
 |---------|-------------|------------|
 | [Black Friday Sales Analysis](https://github.com/KundanPw/BlackFridayAnalysis.git) |Analysis of Black Friday Sales | Numpy, Pandas, Matplotlib, Seaborn |
 | [Analysis of Book Sales](https://github.com/KundanPw/Analysis-of-Sale-Books.git) | Power BI dashboard analyzing book sales records | Power BI|
-| [Cricket Score Management](https://github.com/KundanPw/CricketScoreManagement-Excel-) |Manage cricket score using advance excel |Excel|
+| [Hospital Emergency Room Monthly Report Dashboard](https://github.com/KundanPw/hospital-er-dashboard-excel) |Manage hospital emergency room service monthly report |Excel|
 
 ## 🎯 Currently Learning
 - Advanced SQL & Window Functions
